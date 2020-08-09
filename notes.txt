@@ -1,0 +1,4 @@
+Monitoring containers
+ collect and store metrics from containers.
+ hits rest api of containers & toher docker server on a regular schedule.
+ Grafana - visualization tool to view prometheus metrics.
